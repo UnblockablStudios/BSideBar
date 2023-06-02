@@ -1,0 +1,5 @@
+name: BSidebar
+version: '${project.version}'
+main: uk.co.unblockablstudios.bsidebar.BSideBar
+api-version: 1.19
+softdepend: [PlaceholderAPI]
